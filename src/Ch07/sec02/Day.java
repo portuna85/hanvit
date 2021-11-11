@@ -1,0 +1,5 @@
+package Ch07.sec02;
+
+enum Day {
+    MONDAY, TUESDAY, WEDNESDAY,THURSDAY, FRIDAY, SATURDAY, SUNDAY
+}
